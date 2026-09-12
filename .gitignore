@@ -1,0 +1,4 @@
+# Never commit your device-local configuration or copies containing the Shelly token.
+awattar-live-tariff.local.js
+*.secret
+
